@@ -1,0 +1,17 @@
+
+img{
+    width: 100px;
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.navbar-brand{
+    font-weight: 700;
+    color: cadetblue;
+    font-size: 30px;
+}
+
+.nav-link{
+    color: rgb(237, 91, 59);
+    font-size: 20px;
+}
